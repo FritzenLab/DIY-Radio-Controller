@@ -1,0 +1,9 @@
+Alcance de módulo de radiofrequẽncia 433Mhz com Arduino UNO
+12 e 13 de Janeiro de 2018
+
+- Emissor e receptor com 5V, sem antena: poucos centímetros
+- Emissor e receptor com 5V, com antena/indutor: 3 metros line-of-sight
+- Emissor com 12V e receptor com 5v com antena/indutor: 6+ metros line-of-sight
+- Emissor com 12V e receptor Saltech RXTCH10 com 5v (portao eletrônico) com antena (fio 17cm): mais de 6 metros e com duas paredes no meio 
+- Emissor com 12V e receptor Saltech RXTCH10 com 5v (portao eletrônico) com antena metálica enrolada: mais de 6 metros e com duas paredes no meio 
+
